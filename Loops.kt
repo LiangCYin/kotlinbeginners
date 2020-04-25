@@ -1,6 +1,6 @@
 package Loops
 
-fun main() {
+fun main(args: Array<String>) {
     var sum = 0L
     for( s in 100..100000L){
 //        println(s)
