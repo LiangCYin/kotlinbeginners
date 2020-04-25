@@ -1,2 +1,3 @@
 # kotlinbeginners
-udemy courses chapter 20 code challenge
+udemy courses code challenge
+(Kotlin for beginners: Learn programming with kotlin)
